@@ -6,7 +6,7 @@
 ![Blueprint](https://img.shields.io/badge/Blueprint-%23137CBD.svg?style=for-the-badge&logo=blueprint&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img align="right" alt="Unreal Engine Development" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUwZWk4dTZqajQ2djhhb2dxcGF2dnBubmE5cWluNDQ3eGlyaG5rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWs1QFtBkzMLE7B04A/giphy.gif">
+<img align="right" alt="Xbox Gaming GIF" width="400" src="https://media.giphy.com/media/zWs1QFtBkzMLE7B04A/giphy.gif">
 
 I'm a passionate game developer specializing in Unreal Engine and C++. My focus is on creating performant gameplay systems, VR development, and implementing advanced game mechanics.
 
