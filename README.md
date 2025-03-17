@@ -8,7 +8,7 @@
 
 <img align="right" alt="Unreal Engine Development" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUwZWk4dTZqajQ2djhhb2dxcGF2dnBubmE5cWluNDQ3eGlyaG5rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWs1QFtBkzMLE7B04A/giphy.gif">
 
-I'm a passionate game developer specializing in Unreal Engine and C++. My focus is on creating performant gameplay systems, optimizing rendering pipelines, and implementing advanced game mechanics.
+I'm a passionate game developer specializing in Unreal Engine and C++. My focus is on creating performant gameplay systems, VR development, and implementing advanced game mechanics.
 
 ### 🎮 My Projects
 
@@ -18,3 +18,5 @@ I'm a passionate game developer specializing in Unreal Engine and C++. My focus 
 
 - **IdlFarming** - A farming simulator that was made in c++ for the CLI to practise game logic and get better
   at practising game logic. 
+
+Currently using GitLab for my workflow for Meta Quest Development and general Unreal Engine projects.
